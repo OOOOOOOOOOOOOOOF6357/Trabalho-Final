@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    color: white;
+    font-style: initial;
+}
+
+h2 {
+    color: white;
+    font-style: initial;
+}
+
+h3 {
+    color: white;
+    font-style: initial;
+}
+
+#inicio {
+    width: 200px;
+    height: 125px;
+}
+
+#grelhado {
+    width: 500px;
+    height: 300px;
+}
+
+#picanha {
+    width: 500px;
+    height: 300px;
+}
+
+#picanha2 {
+    width: 500px;
+}
+
+#grelha2 {
+    width: 500px
+}
+
+header {
+    color: white
+}
